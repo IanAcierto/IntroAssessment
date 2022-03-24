@@ -1,5 +1,14 @@
 /* add code here to make your image 300px square */
-
+#pet{
+   Width: 300px 
+}
 /* add code here to change the color and font family of your name/title */
-
+#Jenny{
+    font-family: "Comic Sans MS";
+    color: rgb(186, 186, 229);
+    background-color: rgb(65, 31, 31);
+}
 /* Bonus: change the color of your list elements */
+*{
+    text-align: center;
+}
